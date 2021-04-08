@@ -1,0 +1,23 @@
+{
+    "atomType": "Molecule",
+    "name": "Cat Wheel",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 598647,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.989484752891693,
+            "y": 0.5,
+            "uniqueID": 229765,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
